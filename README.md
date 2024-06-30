@@ -2,7 +2,7 @@
 
 
 <p>
-Estou concluindo o cruso de Jogos Digitais na Fatec São Caetano do Sul,<br>
+Estou concluindo o curso de Jogos Digitais na Fatec São Caetano do Sul,<br>
 Artista da Zé Company,<br>
 Trabalhando em projetos pessoais 
 </p>
